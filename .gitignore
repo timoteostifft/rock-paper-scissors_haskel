@@ -1,0 +1,58 @@
+# Stack
+.stack-work/
+*.cabal
+dist/
+dist-*
+cabal-dev
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+.hpc
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+*.prof
+*.aux
+*.hp
+*.ps
+*.png
+*.svg
+
+# GHC
+*.chi
+*.chs.h
+*.dyn_hi
+*.dyn_o
+*.hi
+*.o
+*.p_hi
+*.p_o
+*.hi-r
+*.hi-t
+*.hi-v
+*.hi-w
+*.hi-x
+*.hi-y
+*.hi-z
+
+# HIE
+.hie/
+
+# Build artifacts
+*.exe
+*.out
+*.tix
+*.mix
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+

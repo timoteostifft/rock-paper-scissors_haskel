@@ -1,0 +1,10 @@
+name: rock-paper-scissors
+version: 0.1.0.0
+description: rock-paper-scissors game in Haskell
+
+executables:
+  rock-paper-scissors:
+    main: main.hs
+    dependencies:
+      - base >= 4.7 && < 5
+      - random
