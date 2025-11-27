@@ -1,3 +1,5 @@
+-- Integrantes: Stefan Reiznautt, Eduardo Corrêa e Timóteo Stifft
+
 import System.Random
 
 jogada :: Int -> String
